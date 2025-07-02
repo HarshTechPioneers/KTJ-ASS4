@@ -99,7 +99,7 @@ A fully responsive and intelligent news web application built with **ReactJS**, 
 
 
 ## 🔗 Live Demo
-👉 [View the app here](https://HarshTechPioneers.github.io/news-ai-dashboard)  
+👉 [View the app here](https://ktj-ass-4.vercel.app/)  
 
 ---
 
